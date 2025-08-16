@@ -1,7 +1,7 @@
 
 # PokemonFinder
 **PokemonFinder** is a Pokémon list and finder app that allows users to browse, search, and view details about their favorite Pokémon. The app features infinite scrolling, detailed Pokémon information, and a clean, responsive design.
-
+<img width="805" height="818" alt="Screenshot 2025-08-16 134201" src="https://github.com/user-attachments/assets/1cabc208-d819-40ba-adbd-646f08cdbe04" />
 ## Features
 - Browse Pokémon with infinite scroll
 - Search Pokémon by name
